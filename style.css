@@ -5,11 +5,9 @@ html {
 }
 
  body {
-     
      font-family: 'Barlow Semi Condensed', sans-serif;
      background-color: hsl(204, 43%, 93%);
-     margin: 20px;
-     
+     margin: 20px;  
  }  
     
  .container {
@@ -45,7 +43,6 @@ html {
  .clifford {
      background: hsl(263, 55%, 52%);
  }
-
     .clifford,
     .walters,
     .harmon,
